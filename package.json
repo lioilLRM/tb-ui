@@ -1,0 +1,16 @@
+{
+  "name": "tb-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cc-ui-uni-app": "^1.1.8",
+    "cyanmaple": "^2.4.0",
+    "uview-ui": "^2.0.31"
+  }
+}
